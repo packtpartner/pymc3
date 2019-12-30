@@ -54,6 +54,7 @@ Learn Bayesian statistics with a book together with PyMC3:
 -  `PyMC3 port of the book "Statistical Rethinking A Bayesian Course with Examples in R and Stan" by Richard McElreath <https://github.com/pymc-devs/resources/tree/master/Rethinking>`__
 -  `PyMC3 port of the book "Bayesian Cognitive Modeling" by Michael Lee and EJ Wagenmakers <https://github.com/pymc-devs/resources/tree/master/BCM>`__: Focused on using Bayesian statistics in cognitive modeling.
 -  `Bayesian Analysis with Python  <https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition>`__ (second edition) by Osvaldo Martin: Great introductory book. (`code <https://github.com/aloctavodia/BAP>`__ and errata).
+-  `Hands-On Bayesian Methods with Python [Video]  <https://www.packtpub.com/big-data-and-business-intelligence/hands-bayesian-methods-python-video?utm_source=docs.pymc.io&utm_medium=referral&utm_campaign=OutreachV11008dollar5>`__ byJames Cross, Rahul Tiwari
 
 PyMC3 talks
 -----------
